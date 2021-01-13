@@ -1,3 +1,3 @@
 # JS Engines: nodejs, V8, spider monkey, deno and some others
 # JS ES(Ecmascript) versions- which is good: 
-# JS compatibility table: http://kangax.github.io/compat-table/es6/
+# JS compatibility table: http://kangax.github.io/compat-table/es6
